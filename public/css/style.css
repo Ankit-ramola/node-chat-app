@@ -12,6 +12,7 @@ html {
 
 input {
     font-size: 14px;
+    border: 2px solid;
 }
 
 body {
@@ -32,7 +33,7 @@ label {
 }
 
 input {
-    border: 1px solid #eeeeee;
+    border: 4px solid #eeeeee;
     padding: 12px;
     outline: none;
 }
@@ -40,7 +41,7 @@ input {
 button {
     cursor: pointer;
     padding: 12px;
-    background: #7C5CBF;
+    background: rgb(2, 57, 94);
     border: none;
     color: white;
     font-size: 16px;
@@ -48,7 +49,7 @@ button {
 }
 
 button:hover {
-    background: #6b47b8;
+    background: #077eb6;
 }
 
 button:disabled {
